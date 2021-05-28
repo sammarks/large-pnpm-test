@@ -1,0 +1,509 @@
+importers:
+  .:
+    specifiers: {}
+  test-packages/package-0:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-1:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-10:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-11:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-12:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-13:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-14:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-15:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-16:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-17:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-18:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-19:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-2:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-20:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-21:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-22:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-23:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-24:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-25:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-26:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-27:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-28:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-29:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-3:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-30:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-31:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-32:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-33:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-34:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-35:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-36:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-37:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-38:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-39:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-4:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-40:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-41:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-42:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-43:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-44:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-45:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-46:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-47:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-48:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-49:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-5:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-50:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-51:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-52:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-53:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-54:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-55:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-56:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-57:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-58:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-59:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-6:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-60:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-61:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-62:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-63:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-64:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-65:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-66:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-67:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-68:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-69:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-7:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-70:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-71:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-72:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-73:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-74:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-75:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-76:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-77:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-78:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-79:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-8:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-80:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-81:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-82:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-83:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-84:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-85:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-86:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-87:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-88:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-89:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-9:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-90:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-91:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-92:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-93:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-94:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-95:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-96:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-97:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-98:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+  test-packages/package-99:
+    dependencies:
+      '@types/lodash': 4.14.170
+    specifiers:
+      '@types/lodash': 4.14.170
+lockfileVersion: 5.2
+packages:
+  /@types/lodash/4.14.170:
+    dev: false
+    resolution:
+      integrity: sha512-bpcvu/MKHHeYX+qeEN8GE7DIravODWdACVA1ctevD8CN24RhPZIKMn9ntfAsrvLfSX3cR5RrBKAbYm9bGs0A+Q==
